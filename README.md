@@ -17,8 +17,9 @@ Every day that an assignment is late is a one letter grade deduction. Work that 
 
 ## How to Turn in Assignments
 
-1. Save your code in a file named 'ps1.py', 'ps2.py' or 'ps3.py' depending on which problem set you're completing.
-2. At the top of your code, in a comment, write down the name of the problem set and your name like so:
+First, save your code in a file named 'ps1.py', 'ps2.py' or 'ps3.py' depending on which problem set you're completing.
+
+Second, at the top of your code, in a comment, write down the name of the problem set and your name like so:
 ```
 # Problem Set 0
 # Name: Sisi Wei
@@ -26,4 +27,4 @@ Every day that an assignment is late is a one letter grade deduction. Work that 
 def example(x):
 ...
 ```
-3. Email your script to sisi.wei [at] journalism [dot] cuny [dot] edu.
+Finally, email your completed assignment to sisi.wei [at] journalism [dot] cuny [dot] edu.
