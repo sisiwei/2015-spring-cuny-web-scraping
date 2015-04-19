@@ -6,9 +6,9 @@ This repository contains all the problem sets you'll be doing for the course, as
 
 | Assignment | Due |
 | --- | --- |
-| Problem Set #1 | April 30th at 5 p.m. |
-| Problem Set #2 | May 7th at 5 p.m. |
-| Problem Set #3 | May 14th at 5 p.m. |
+| Problem Set #1 | April 29th at 11:59 p.m. |
+| Problem Set #2 | May 6th at 11:59 p.m. |
+| Problem Set #3 | May 13th at 11:59 p.m. |
 | Final Project | May 24th at 12 p.m. (noon) |
 
 ## Late Policy Reminder
