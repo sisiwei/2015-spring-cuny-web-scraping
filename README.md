@@ -20,11 +20,11 @@ Every day that an assignment is late is a one letter grade deduction. Work that 
 First, save your code in a file named 'ps1.py', 'ps2.py' or 'ps3.py' depending on which problem set you're completing.
 
 Second, at the top of your code, in a comment, write down the name of the problem set and your name like so:
-```
+```python
 # Problem Set 0
 # Name: Sisi Wei
 
 def example(x):
-...
+  print x
 ```
 Finally, email your completed assignment to sisi.wei [at] journalism [dot] cuny [dot] edu.
