@@ -13,9 +13,11 @@ This repository contains all the problem sets you'll be doing for the course, as
 
 ## How to Turn in Assignments
 
-First, save your code in a file named 'ps1.py', 'ps2.py' or 'ps3.py' depending on which problem set you're completing.
+First, create a folder in your PythonAnywhere account called "homework". Put all of your future homework in this file.
 
-Second, at the top of your code, in a comment, write down the name of the problem set and your name like so:
+Second, create a python file named after the problem set, such as "problem-set-1.py" and so forth, every time you're working on an assignment.
+
+Third, at the top of your code, in a comment, write down the name of the problem set and your name like so:
 ```python
 # Problem Set 0
 # Name: Sisi Wei
@@ -23,7 +25,13 @@ Second, at the top of your code, in a comment, write down the name of the proble
 def example(x):
   print x
 ```
-Finally, email your completed assignment to sisi.wei [at] journalism [dot] cuny [dot] edu.
+
+Fourth, complete and run your code to make sure it works! That's it.
+
+A few things to note:
+- I'll able to view all of your homework sites from inside PythonAnywhere, so there's no need to send it to me! If your "problem-set-1.py" is in the homework folder on your account, it will count as being digitally accessible to me by the deadline.
+- <b>Do not edit/open/save/do anything with your homework assignments past the deadline.</b> The timestamps on the files are what I'll be using to determine whether you've turned in your homework on time. If you are done before the deadline, but then decide to edit the file again after the deadline, it will appear to me as if you've turned it in late.
+
 
 ## Late Policy Reminder
 
