@@ -7,7 +7,7 @@ Please remember the [Academy Honesty policy on problem sets](http://cdn.cs50.net
 ## Goal
 The goal of this problem set is to familiarize you with the very basics of programming so that we can jump straight into web scraping next week. Any type of programming you do will require familiarity with the basic concepts of variables, functions, lists, if statements and loops. 
 
-## Problem
+## Problems
 
 1. Write a function, named "copycat", that simply prints out whatever input it's given.
 
