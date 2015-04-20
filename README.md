@@ -35,4 +35,4 @@ A few things to note:
 
 ## Late Policy Reminder
 
-Every day that an assignment is late is a one letter grade deduction. Work that deserves an A, turned in anytime within 24 hours after the deadline will automatically receive a B. During the next 24 hours it becomes a C, etc.
+Since I’ll be going over the answers the day after assignments are due, late assignments will automatically receive zero points. Turn in assignments by the deadline, even if you’re unsure of some of your answers.
