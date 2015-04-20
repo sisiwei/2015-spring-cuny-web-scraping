@@ -1,5 +1,5 @@
 # Jour72326: Scraping for Journalists
-Syllabus: TKTKTKTK
+Syllabus: https://medium.com/@sisiwei/breaking-the-html-enigma-machine-cc4013c37532
 
 ## Schedule
 This repository contains all the problem sets you'll be doing for the course, as well as the final project due date. Non-problem set assignments are listed on the syllabus and will not be repeated here.
