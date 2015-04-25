@@ -17,8 +17,9 @@ First, create a folder in your PythonAnywhere account called "homework". Put all
 
 Second, create a python file named after the problem set, such as "problem-set-1.py" and so forth, every time you're working on an assignment.
 
-Third, at the top of your code, in a comment, write down the name of the problem set and your name like so:
+Third, at the top of your code, in a comment, write down the name of the problem set and your name like so. Make sure to include the top line (```#!/usr/bin/env python2.7```) I've pasted here as well:
 ```python
+#!/usr/bin/env python2.7
 # Problem Set 0
 # Name: Sisi Wei
 
