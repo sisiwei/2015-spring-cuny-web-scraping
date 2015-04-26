@@ -17,7 +17,7 @@ The goal of this problem set is to familiarize you with the very basics of progr
 
 4. Write a function, named "find_the_max", that given any three numbers, will print out the bigger number. Python has the native ability to do this, using the function ```max()```. Do not use it. Instead write this from scratch.
 
-5. Given the following data, write a function, named "total_students", that calculates how many students are enrolled in Hogwarts.
+5. Given the following data, write a function, named "total_students", that calculates how many <b>total</b> students are enrolled in Hogwarts.
 
 ```python
 pupils_by_year = [["first years", 40], ["second years", 40], ["third years", 38], ["fourth years", 35], ["fifth years", 30], ["sixth years", 29], ["seventh years", 23]]
