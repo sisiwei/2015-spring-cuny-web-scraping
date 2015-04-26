@@ -22,3 +22,7 @@ The goal of this problem set is to familiarize you with the very basics of progr
 ```python
 pupils_by_year = [["first years", 40], ["second years", 40], ["third years", 38], ["fourth years", 35], ["fifth years", 30], ["sixth years", 29], ["seventh years", 23]]
 ```
+
+## Updates
+
+- April 26: Added the word "total" to #5 to clarify that the "total_students" function should figure out how many students are now at Hogwarts in total.
