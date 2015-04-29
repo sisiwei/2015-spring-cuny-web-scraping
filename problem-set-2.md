@@ -26,6 +26,6 @@ For example, your final CSV should look something like the following:
 - Some names will appear twice. Do not worry about that this week.
 - The URLs that are on the website are not full URLs, meaning that if you were to copy and paste them into a web browser, they will not work.
     - Ex: "SomsSUBDirectory/offenderDetails.jsp?offenderid=7227" 
-    - Make sure to add "http://www.criminaljustice.ny.gov" to the front of these URLs when you are saving them.
+    - Make sure to add "http://www.criminaljustice.ny.gov/" to the front of these URLs when you are saving them.
 
 
