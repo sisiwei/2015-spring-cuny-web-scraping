@@ -5,7 +5,7 @@
 Please remember the [Academy Honesty policy on problem sets](http://cdn.cs50.net/2014/fall/lectures/0/w/syllabus/syllabus.html#academic_honesty). If you are ever confused about what is okay and what isn't, ask me. 
 
 ## Goal
-The goal of this problem set is to give you practice scraping a simple website.
+The goal of this problem set is to give you practice scraping websites similar to, but not identical to the one we scraped during class.
 
 ## Problems
 The New York State Division of Criminal Justice Services publishes a regularly updated database of sex offenders on [its website](http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp). Your assignment this week is to write a Python scraper that is able to get the latest list of sex offenders for New York county.
