@@ -18,12 +18,14 @@ For example, your final CSV should look something like the following:
 
 | OffenderName | URL |
 | --- | --- |
-| ABDUL-HAKEEM, AS-SUFI | www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=7227 |
-| ACES, HARRY | www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=6706 |
-| ALCARAZ, JORGE | www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=25377 |
+| ABDUL-HAKEEM, AS-SUFI | http://www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=7227 |
+| ACES, HARRY | http://www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=6706 |
+| ALCARAZ, JORGE | http://www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=25377 |
 
 <b>A few things to look out for:</b>
 - Some names will appear twice. Do not worry about that this week.
-- The URLs that are on the website are not full URLs, meaning that if you were to copy and paste them into a web browser, they will not work. Ex: "SomsSUBDirectory/offenderDetails.jsp?offenderid=7227" Make sure to add "www.criminaljustice.ny.gov" to the front of these URLs when you are saving them.
+- The URLs that are on the website are not full URLs, meaning that if you were to copy and paste them into a web browser, they will not work.
+    - Ex: "SomsSUBDirectory/offenderDetails.jsp?offenderid=7227" 
+    - Make sure to add "http://www.criminaljustice.ny.gov" to the front of these URLs when you are saving them.
 
 
