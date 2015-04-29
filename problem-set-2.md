@@ -8,9 +8,9 @@ Please remember the [Academy Honesty policy on problem sets](http://cdn.cs50.net
 The goal of this problem set is to give you practice scraping a simple website.
 
 ## Problems
-The New York State Division of Criminal Justice Services publishes a regularly updated database of sex offenders on [its website](http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp). Your assignment this week is to scrape the list of sex offenders for New York county.
+The New York State Division of Criminal Justice Services publishes a regularly updated database of sex offenders on [its website](http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp). Your assignment this week is to write a Python scraper that is able to get the latest list of sex offenders for New York county.
 
-The specific URL you'll be scraping is this one: http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp?offenderSubmit=true&LastName=&County=31&Zip=&Submit=Search
+The specific URL you'll need to scrape is http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp?offenderSubmit=true&LastName=&County=31&Zip=&Submit=Search
 
 In addition to scraping all the names from the page, you'll also need to scrape the URL associated with each name into a CSV file.
 
