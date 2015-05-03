@@ -8,7 +8,7 @@ This repository contains all the problem sets you'll be doing for the course, as
 | --- | --- |
 | [Problem Set #1](problem-set-1.md) | April 29th at 11:59 p.m. |
 | [Problem Set #2](problem-set-2.md) | May 6th at 11:59 p.m. |
-| Problem Set #3 | May 13th at 11:59 p.m. |
+| [Problem Set #3](problem-set-3.md) | May 13th at 11:59 p.m. |
 | Final Project | May 24th at 12 p.m. (noon) |
 
 ## How to Turn in Assignments
