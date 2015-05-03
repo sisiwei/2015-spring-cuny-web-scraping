@@ -28,4 +28,9 @@ For example, your final CSV should look something like the following:
     - Ex: "SomsSUBDirectory/offenderDetails.jsp?offenderid=7227" 
     - Make sure to add "http://www.criminaljustice.ny.gov/" to the front of these URLs when you are saving them.
 
+## Updates
+
+- We are using version 3 of BeautifulSoup, you can check out the documentation for BeautifulSoup 3 here: http://www.crummy.com/software/BeautifulSoup/bs3/documentation.html
+
+- If you find an answer online that doesn’t work, it might be tailored for BeautifulSoup4. The way you can tell however, is that in answers on the Internet, people usually include what libraries they import at the top of their scripts, just like we did in class. If you see something like ```from BeautifulSoup import BeautifulSoup```, which is what we did in class, the answer is probably using BeautifulSoup version 3. If it includes instead a message saying ```from bs4 import BeautifulSoup```, then you can assume they’re using BeautifulSoup4.
 
