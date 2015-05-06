@@ -28,9 +28,10 @@ For example, your final CSV should look something like the following:
     - Ex: "SomsSUBDirectory/offenderDetails.jsp?offenderid=7227" 
     - Make sure to add "http://www.criminaljustice.ny.gov/" to the front of these URLs when you are saving them.
 
-## Updates
+## Updates & Hints
 
 - We are using version 3 of BeautifulSoup, you can check out the documentation for BeautifulSoup 3 here: http://www.crummy.com/software/BeautifulSoup/bs3/documentation.html
 
 - If you find an answer online that doesn’t work, it might be tailored for BeautifulSoup4. The way you can tell however, is that in answers on the Internet, people usually include what libraries they import at the top of their scripts, just like we did in class. If you see something like ```from BeautifulSoup import BeautifulSoup```, which is what we did in class, the answer is probably using BeautifulSoup version 3. If it includes instead a message saying ```from bs4 import BeautifulSoup```, then you can assume they’re using BeautifulSoup4.
 
+- If you've tried a million ways to get the URL out of those darn <a> tags, but are still getting errors, consider this: The first line that just says "Offender Name" doesn't actually have any <a> tags inside! So any code you write for every single line of the table won't necessarily work. There are two ways to get around this. (1) See if you can figure out how to check for whether an <a> tag exists, or (2) Skip the first row of the table all together, and just write the header row manually into your Python script.
