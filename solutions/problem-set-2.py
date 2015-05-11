@@ -19,10 +19,9 @@ for row in table.findAll("td"):
     if row.find('a') == None:
         url = "URL"
     else:
-        url = '"http://www.criminaljustice.ny.gov' + row.find('a').get('href') + '"'
+        url = "http://www.criminaljustice.ny.gov" + row.find('a').get('href')
 
-    for letter in name:
-        all_rows.append(letter)
+    all_rows.append([name, url])
 
 print all_rows
 
