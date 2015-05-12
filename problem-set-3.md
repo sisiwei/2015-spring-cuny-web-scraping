@@ -24,4 +24,22 @@ For example, your final CSV should look something like the following:
 - Some Offender IDs may appear multiple times. If this is the case, only include the Offender once.
 - Also collect the Offender's address information.
 
+## Updates & Hints
+
+- Hint: Remember that I showed all of you mechanize last week because it will help you with your final projects. You do not need to use mechanize for this homework assignment.
+
+- Hint: A great way to tackle this problem set is in two parts:   
+
+1. Try to scrape one of the URLs you saved from the last assignment, such as: http://www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=7227 All of these pages are structured the same, so once you scrape one, it's like you've scraped them all.
+
+2. Try to merge your new scraper into your problem-set-2.py.
+
+- Hint: Don't forget about lists. Sometimes plucking data out of a list is the easiest way to scrape.
+
+- Hint: Code getting a little messy? Remember how we used functions in our first problem set? Sometimes it's easier to organize your code into functions, and then call them later. But remember, if you write a function, you can only call it *later* in the code.
+
+- Hint: Since we're asking your scripts to visit so many URLs, running the entire scrape will take time. Give yourself some peace of mind by printing out some progress statements. For example, print out the name of the offender every time you get to a new one. This way, you won't be stuck wondering if your script is working.
+
+
+
 
