@@ -30,9 +30,9 @@ For example, your final CSV should look something like the following:
 
 - Hint: A great way to tackle this problem set is in two parts:   
 
-1. Try to scrape one of the URLs you saved from the last assignment, such as: http://www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=7227 All of these pages are structured the same, so once you scrape one, it's like you've scraped them all.
+  1. Try to scrape one of the URLs you saved from the last assignment, such as: http://www.criminaljustice.ny.gov/SomsSUBDirectory/offenderDetails.jsp?offenderid=7227 All of these pages are structured the same, so once you scrape one, it's like you've scraped them all.
 
-2. Try to merge your new scraper into your problem-set-2.py.
+  2. Try to merge your new scraper into your problem-set-2.py.
 
 - Hint: Don't forget about lists. Sometimes plucking data out of a list is the easiest way to scrape.
 
