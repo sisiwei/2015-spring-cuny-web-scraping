@@ -15,22 +15,22 @@ Content requirements:
 
 Technical requirements:
 * Scraping the site you've selected needs to be challenging. This can mean:
-** A complex form you need to fill out to get the information
-** Tricky html code
-** Multiple pages of information
-** Scraping two websites simultaneously and saving their results together
+  **A complex form you need to fill out to get the information
+  *Tricky html code
+  *Multiple pages of information
+  *Scraping two websites simultaneously and saving their results together
 * Final projects cannot:
-** Be a single page with a table
+  *Be a single page with a table
 * The data cannot be already downloadable as a CSV or XLS file
 
 ## How to Turn in Your Assignment
 Unlike previous weeks, I'd like for you to email me your final project scripts by the deadline. In your email, please include the following:
 
 1. What’s the URL(s) you’re getting that information from?
-ex: http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp?offenderSubmit=true&LastName=&County=31&Zip=&Submit=Search
+<br/>ex: http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp?offenderSubmit=true&LastName=&County=31&Zip=&Submit=Search
 
 2. What’s the data you’re trying to scrape? Be specific and include exactly what data points you’re looking for.
-ex: I’m trying to scrape the Offender ID, Risk and Address for every sex offender in New York City. This requires scraping the URL I listed, plus all of the URLs linked to for each sex offender to gather the data.
+<br/>ex: I’m trying to scrape the Offender ID, Risk and Address for every sex offender in New York City. This requires scraping the URL I listed, plus all of the URLs linked to for each sex offender to gather the data.
 
 3. Attach your final project Python script to the email.
 
