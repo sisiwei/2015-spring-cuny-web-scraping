@@ -15,12 +15,12 @@ Content requirements:
 
 Technical requirements:
 * Scraping the site you've selected needs to be challenging. This can mean:
-  **A complex form you need to fill out to get the information
-  *Tricky html code
-  *Multiple pages of information
-  *Scraping two websites simultaneously and saving their results together
+  * A complex form you need to fill out to get the information
+  * Tricky html code
+  * Multiple pages of information
+  * Scraping two websites simultaneously and saving their results together
 * Final projects cannot:
-  *Be a single page with a table
+  * Be a single page with a table
 * The data cannot be already downloadable as a CSV or XLS file
 
 ## How to Turn in Your Assignment
