@@ -1,5 +1,5 @@
 # Problem Set 1
-<i>Assigned: April 23rd<i>
+<i>Assigned: April 23rd</i>
 <br/><b>Due: April 29th at 11:59 p.m. (6 days to complete)</b>
 
 Please remember the [Academy Honesty policy on problem sets](http://cdn.cs50.net/2014/fall/lectures/0/w/syllabus/syllabus.html#academic_honesty). If you are ever confused about what is okay and what isn't, ask me. 
